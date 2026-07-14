@@ -1,0 +1,32 @@
+中兴捧月“星匠师”巧匠精英挑战赛-超级智能体开发大赛-省赛试题		
+序号	题目	task_id
+1、	What is the increase in reference count between the first ZTE Wikipedia revisions of 2026 and 2025?	ZTE Super Agent Challenge_task_id_1
+		
+2、	How many times was the ZTE Wikipedia page edited in 2025?	ZTE Super Agent Challenge_task_id_2
+		
+3、	As of the end of July 2023, how many other rail lines did Amtrak\u2019s Adirondack line provide connections to? Count only commuter/heavy rail lines that share a station with the Adirondack, not subway or light rail lines.	ZTE Super Agent Challenge_task_id_3
+		
+4、	In the abstract of the Lithuanian Bulvi\u0173 rinka 2009 metais - Ingrida Luko\u0161iut\u0117, how many times does the author mention the year that the book \"The Propitious Esculent\" was published?	ZTE Super Agent Challenge_task_id_4
+		
+5、	A word meaning dramatic or theatrical forms a species of duck when appended with two letters and then duplicated. What is that word?	ZTE Super Agent Challenge_task_id_5
+		
+6、	 In 2025, the ZTE Wikipedia page was edited to add exactly $N$ bytes, where $N$ corresponds to the street number of ZTE's Shanghai Research Institute. On what date was this edit accepted? Please provide the answer in YYYY/MM/DD format.	ZTE Super Agent Challenge_task_id_6
+		
+7、	Identify the first country listed under 'Subsidiaries' in the early 2025 version of ZTE's Wikipedia page. According to that country's own Wikipedia entry, under what motto is its national identity unified?	ZTE Super Agent Challenge_task_id_7
+		
+8、	What is the motto of the flagship university whose acronym is spelled out by the letters shaped by the graphed lines of these functions in Python MatPlotLib in order? (1) \"y = 6x^2 + 4x + 4\" (2) \"y = -6x^2 + 4x + 4\" (3) \"x = 6y^2 + 4y + 4"	ZTE Super Agent Challenge_task_id_8
+		
+9、	Could you please tell me the name of the song that starts playing while Panga was playing the 2,000th level in this video, and also who wrote the song? https://www.youtube.com/watch?v=zNM7OtnJFvU\n\nI don't mean the course song, but after the first jump onto the smiling cloud blocks some different music started playing. Answer using the format SONG NAME, ARTIST NAME. Don't use special characters in the artist's name.	ZTE Super Agent Challenge_task_id_9
+		
+10、	On what page of the 1975 edition of Irma S. Rombauer's best-known cookbook is the recommended stuffing for raccoon described?	ZTE Super Agent Challenge_task_id_10
+		
+		
+注意：	除提交结果示例说明中所要求的材料，还需要上传运行log，以确保是使用Co-sight解出的答案	
+		
+		
+		
+		
+		
+		
+		
+		
